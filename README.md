@@ -1,6 +1,6 @@
 # Netflix Data Analysis
 
-The project is a data analysis and visualization project focused on the [Netflix dataset]([url](https://www.kaggle.com/datasets/shivamb/netflix-shows)). It aims to explore and gain insights into the content available on Netflix, including movies and TV shows, genres, countries contributing to the content, content ratings, and prominent actors and directors.
+The project is a data analysis and visualization project focused on the [Netflix dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). It aims to explore and gain insights into the content available on Netflix, including movies and TV shows, genres, countries contributing to the content, content ratings, and prominent actors and directors.
 
 The project starts by importing necessary Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The Netflix dataset is loaded using Pandas' read_csv() function, and an initial data overview is provided by displaying the first few rows and checking the number of rows and columns.
 
